@@ -1,0 +1,30 @@
+#header{
+    text-align: center;
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#input-text{
+    padding:  10px 20px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+#result{
+    text-align: center;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#submit-btn{
+    padding: 10px 20px;
+    text-align: center;
+    background-color: aquamarine;
+    transition: ease-in-out;
+    cursor: pointer;
+    
+}
+#flex-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
